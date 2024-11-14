@@ -73,15 +73,7 @@ const titleStyle = {
   letterSpacing: '0.01em',
 };
 
-const subtitleStyle = {
-  fontSize: '2.5em',
-  fontWeight: 'normal',
-  marginBottom: '40px',
-  zIndex: 2,
-  position: 'relative',
-  lineHeight: 1.2,
 
-};
 
 const companyStyle = {
   fontSize: '0.9em',
